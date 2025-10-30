@@ -1,0 +1,2 @@
+💨 DFRobot Gravity PM2.5 Sensor (I2C) Setup Guide for Raspberry Pi 4
+This guide documents the successful connection and programming of the DFRobot Gravity: PM2.5 Air Quality Sensor using the I2C protocol on a Raspberry Pi 4. This resolves common issues related to UART/I2C confusion, Python dependencies, and library function name mismatches.
